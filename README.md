@@ -1,10 +1,10 @@
 # Project Title
 
-my_first_project
+Detection of Cheating in Chess
 
 ## Summary
 
-Building AI Course Project 
+Building AI Course Project
 
 
 ## Background
